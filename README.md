@@ -9,11 +9,6 @@
 
 ###
 
-<div align="center">
-  <img height="180" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJ4ZjBrbXI3ZXM2Y2oydXc5anUyNXcwaXVjZWVyeTd6ZWJjN3pqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/heIX5HfWgEYlW/giphy.gif"  />
-</div>
-
-###
 <h3 align="left"> 🚀 Main Technologies</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
@@ -43,3 +38,11 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
   </a>
 </div>
+
+###
+
+<div align="center">
+  <img height="180" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJ4ZjBrbXI3ZXM2Y2oydXc5anUyNXcwaXVjZWVyeTd6ZWJjN3pqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/heIX5HfWgEYlW/giphy.gif"  />
+</div>
+
+###
