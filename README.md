@@ -14,7 +14,7 @@
 </div>
 
 ###
-
+<h3 align="left"> 🚀 Main Technologies</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
   <img width="12" />
