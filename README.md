@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Erick Ibarra and I'm a software engineering student, from Mexico</h1>
+<h2 align="left">Hi 👋! My name is Erick Ibarra and I'm a software engineering student, from Mexico</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 </div>
 
 ###
-<h2 align="left"> 🚀 Main Technologies</h2>
+<h3 align="left"> 🚀 Main Technologies</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
   <img width="12" />
