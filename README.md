@@ -54,6 +54,8 @@
 
 <h3 align="left"> ⚡ Recent Github Projects</h3>
 
-[BlackWoodCoffee](https://github.com/ArthurRomulus/PI3)
+3. Coffee-Shop
+
+[**Ver repositorio**](https://github.com/ArthurRomulus/PI3)
 
 
