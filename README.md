@@ -54,8 +54,26 @@
 
 <h3 align="left"> ⚡ Recent Github Projects</h3>
 
-3. Coffee-Shop
+## 1. BlackWoodCoffee
 
 [**Ver repositorio**](https://github.com/ArthurRomulus/PI3)
+
+<img src="assets/BlackWoodCoffee.jpg" width="900" />
+
+---
+
+## 2. EcoEnergy
+
+[**Ver repositorio**](https://github.com/RicardoQuiroz286/EcoEnergy)
+
+<img src="assets/Ecoenergy.jpg" width="900" />
+
+---
+
+## 3. Virus Attack
+
+[**Ver repositorio**](https://github.com/patomax31/Virus-Attack)
+
+<img src="assets/VirusAttack.jpg" width="900" />
 
 
