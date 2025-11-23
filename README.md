@@ -54,7 +54,6 @@
 
 <h3 align="left"> ⚡ Recent Github Projects</h3>
 
-<h3 align="left">1. BlackWoodCoffee</h3>
-  <img src="https://github.com/ArthurRomulus/PI3"
+[BlackWoodCoffee](https://github.com/ArthurRomulus/PI3)
 
 
